@@ -6,7 +6,7 @@ of Sublime Text 3. They are no longer maintained, but are available via
 
 ## Installation
 
- - Install [Package Control](https://packagecontrol.io/installation
+ - Install [Package Control](https://packagecontrol.io/installation)
  - Run the **Package Control: Install Package** command from the *Command Palette*
  - Type "Legacy Color Schemes" and press *Enter*
 
