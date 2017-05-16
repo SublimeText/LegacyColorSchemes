@@ -1,6 +1,6 @@
 # Legacy Color Schemes
 
-These are color schemes that were previous part of Sublime Text 2 and older builds
+These are color schemes that were part of Sublime Text 2 and older builds
 of Sublime Text 3. They are no longer maintained, but are available via
 [Package Control](https://packagecontrol.io/packages/Legacy%20Color%20Schemes).
 
