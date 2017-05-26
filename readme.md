@@ -2,13 +2,13 @@
 
 These are color schemes that were part of Sublime Text 2 and older builds
 of Sublime Text 3. They are no longer maintained, but are available via
-[Package Control](https://packagecontrol.io/packages/Legacy%20Color%20Schemes).
+[Package Control](https://packagecontrol.io/packages/Color%20Scheme%20-%20Legacy).
 
 ## Installation
 
  - Install [Package Control](https://packagecontrol.io/installation)
  - Run the **Package Control: Install Package** command from the *Command Palette*
- - Type "Legacy Color Schemes" and press *Enter*
+ - Type "Color Scheme - Legacy" and press *Enter*
 
 ## Usage
 
